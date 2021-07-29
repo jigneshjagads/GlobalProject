@@ -61,5 +61,4 @@ displayColors(message, 'Red','Blue','Green');
 let check = "Check main branch code push"
 
 
-// Hi jignesh sir
-// hi nirav
+//same branch name comment
